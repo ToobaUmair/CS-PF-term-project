@@ -1,0 +1,8 @@
+__________________________________________________________________________________________________
+Customer Id    Order Id       Order type          Order Conditon      status              
+__________________________________________________________________________________________________
+CU001          OR001          screen repairing    urgent              pending             
+CU002          OR002          panel changing      normal              pending             
+CU003          OR004          speaker repairing   normal              delivered           
+CU004          OR005          panel changing      normal              pending             
+__________________________________________________________________________________________________
